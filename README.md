@@ -4,6 +4,12 @@ App para celular em que o apontador da obra lança a parte diária dos equipamen
 
 Feito em **Google Apps Script**, com uma **Planilha Google** como base de dados e o **Gmail** para os envios automáticos. Não precisa de servidor nem de mensalidade.
 
+## Teste o app
+
+**[Abrir a demonstração](https://leticiacristinaam-max.github.io/leticiaam1/)** (funciona no celular e no computador)
+
+Para entrar, use o PIN **0000** (administradora) ou **1234** (apontador). A demonstração usa equipamentos e partes fictícios, guardados só no seu navegador, e não envia e-mails. O botão *Recomeçar*, no topo, volta aos dados iniciais.
+
 ## O que o app faz
 
 - **Apontamento pelo celular:** o apontador escolhe o equipamento e informa o horímetro ou o KM, os horários de início e término, o abastecimento, as paradas com o motivo e a rua ou serviço do dia.
@@ -25,6 +31,7 @@ Feito em **Google Apps Script**, com uma **Planilha Google** como base de dados 
 |---|---|
 | `src/Code.gs` | Servidor: leitura e gravação na planilha, cálculos, geração do PDF e do Excel e envio dos e-mails |
 | `src/Index.html` | Tela do app, com HTML, CSS e JavaScript |
+| `docs/index.html` | Versão de demonstração que roda sozinha no navegador (GitHub Pages) |
 
 ## Como instalar
 
