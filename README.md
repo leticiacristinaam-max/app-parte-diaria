@@ -6,7 +6,7 @@ Feito em **Google Apps Script**, com uma **Planilha Google** como base de dados 
 
 ## Teste o app
 
-**[Abrir a demonstração](https://leticiacristinaam-max.github.io/leticiaam1/)** (funciona no celular e no computador)
+**[Abrir a demonstração](https://leticiacristinaam-max.github.io/app-parte-diaria/)** (funciona no celular e no computador)
 
 Para entrar, use o PIN **0000** (administradora) ou **1234** (apontador). A demonstração usa equipamentos e partes fictícios, guardados só no seu navegador, e não envia e-mails. O botão *Recomeçar*, no topo, volta aos dados iniciais.
 
